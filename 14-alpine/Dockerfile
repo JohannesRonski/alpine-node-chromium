@@ -1,6 +1,6 @@
-FROM node:%VERSION%
+FROM node:14-alpine
 
-LABEL org.opencontainers.image.authors="Lucas Baumgarten https://github.com/ekbaumgarten"
+LABEL org.opencontainers.image.authors="Aleksandar Diklic https://github.com/rastasheep"
 
 RUN \
   echo "http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories \

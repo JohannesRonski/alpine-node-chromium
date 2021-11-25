@@ -4,6 +4,8 @@
 
 ## About image
 
+This image was forked from https://hub.docker.com/r/rastasheep/alpine-node-chromium project.
+
 - [What, why, how?](#-what-why-how)
 - [Image tags](#-image-tags)
 - [Installed packages](#-installed-packages)
@@ -27,13 +29,7 @@ If you're interested into actual Karma configuration, it looks like:
 
 ### • Image tags
 
-- rastasheep/alpine-node-chromium:14-alpine (based on: node:14-alpine)
-- rastasheep/alpine-node-chromium:12-alpine (based on: node:12-alpine)
-- rastasheep/alpine-node-chromium:10-alpine (based on: node:10-alpine)
-- rastasheep/alpine-node-chromium:8-alpine (based on: node:8-alpine)
-- rastasheep/alpine-node-chromium:7-alpine (based on: node:7-alpine)
-- rastasheep/alpine-node-chromium:6-alpine (based on: node:6-alpine)
-- rastasheep/alpine-node-chromium:4-alpine (based on: node:4-alpine)
+- ekbaumgarten/alpine-node-chromium:16-alpine (based on: node:16-alpine)
 
 ### • Installed packages
 
@@ -57,7 +53,7 @@ Image optimization libs
 
 ## Issues
 
-If you run into any problems with this image, please check (and potentially file new) issues on the [rastasheep/alpine-node-chromium](https://github.com/rastasheep/alpine-node-chromium/issues) repository, which is the source for this image.
+If you run into any problems with this image, please check (and potentially file new) issues on the [ekbaumgarten/alpine-node-chromium](https://github.com/ekbaumgarten/alpine-node-chromium/issues) repository, which is the source for this image.
 
 ## License
 
