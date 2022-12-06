@@ -29,7 +29,7 @@ If you're interested into actual Karma configuration, it looks like:
 
 ### • Image tags
 
-- ekbaumgarten/alpine-node-chromium:16-alpine (based on: node:16-alpine)
+- jronski/alpine-node-chromium:18-alpine (based on: node:18-alpine)
 
 ### • Installed packages
 
@@ -53,7 +53,7 @@ Image optimization libs
 
 ## Issues
 
-If you run into any problems with this image, please check (and potentially file new) issues on the [ekbaumgarten/alpine-node-chromium](https://github.com/ekbaumgarten/alpine-node-chromium/issues) repository, which is the source for this image.
+If you run into any problems with this image, please check (and potentially file new) issues on the [JohannesRonski/alpine-node-chromium](https://github.com/JohannesRonski/alpine-node-chromium/issues) repository, which is the source for this image.
 
 ## License
 
